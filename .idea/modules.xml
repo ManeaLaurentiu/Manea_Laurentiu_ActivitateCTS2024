@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Problema_1/Problema_1.iml" filepath="$PROJECT_DIR$/Problema_1/Problema_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Problema_10/Problema_10.iml" filepath="$PROJECT_DIR$/../Problema_10/Problema_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Problema_11/Problema_11.iml" filepath="$PROJECT_DIR$/../Problema_11/Problema_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema_2/Problema_2.iml" filepath="$PROJECT_DIR$/Problema_2/Problema_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema_3/Problema_3.iml" filepath="$PROJECT_DIR$/Problema_3/Problema_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema_4/Problema_4.iml" filepath="$PROJECT_DIR$/Problema_4/Problema_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema_5/Problema_5.iml" filepath="$PROJECT_DIR$/Problema_5/Problema_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema_6/Problema_6.iml" filepath="$PROJECT_DIR$/Problema_6/Problema_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema_1p/Problema_7/Problema_7.iml" filepath="$PROJECT_DIR$/Problema_1p/Problema_7/Problema_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Problema_8/Problema_8.iml" filepath="$PROJECT_DIR$/../Problema_8/Problema_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Problema_9/Problema_9.iml" filepath="$PROJECT_DIR$/../Problema_9/Problema_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project_CTS.iml" filepath="$PROJECT_DIR$/Project_CTS.iml" />
+    </modules>
+  </component>
+</project>
